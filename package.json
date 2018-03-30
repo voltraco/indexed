@@ -1,7 +1,7 @@
 {
   "name": "indexed",
   "version": "2.0.0",
-  "description": "Minimal wrapper around the shit-show that is IndexedDB.",
+  "description": "Minimalist IndexedDB with async/await.",
   "main": "index.js",
   "scripts": {
     "pretest": "standard",
@@ -14,7 +14,5 @@
     "browserify": "^16.1.1",
     "standard": "^10.0.3",
     "tape": "^4.9.0"
-  },
-  "dependencies": {
   }
 }
